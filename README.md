@@ -14,4 +14,4 @@ The key points of this project are
   1. Using Android Phone sends string to ESP32 by Bluetooth
   2. ESP32 reads the string in Bluetooth
   3. Using the string to turn on or off the assigning pins. Ex. If string is ‘3’ then make pin 4 LOW and this will turn on the fan.
-  ![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+  ![alt text](https://imgur.com/xlCnjOX)
