@@ -10,8 +10,9 @@ In this project, we need to prepare those below
   3. A Fan
   4. A light 
   5. Android Phone and installed the APP: Arduino Bluetooth Control(Google Play: https://goo.gl/jEAmbu)
+  ![alt text](https://i.imgur.com/XHb5GIs.png)
 The key points of this project are 
   1. Using Android Phone sends string to ESP32 by Bluetooth
   2. ESP32 reads the string in Bluetooth
   3. Using the string to turn on or off the assigning pins. Ex. If string is ‘3’ then make pin 4 LOW and this will turn on the fan.
-  ![alt text](https://imgur.com/xlCnjOX)
+  ![alt text](https://i.imgur.com/xlCnjOX.png)
